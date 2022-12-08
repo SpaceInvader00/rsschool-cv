@@ -24,9 +24,9 @@
 **About myself**
 
 ### Pre-history
-A few days ago i started to study in RS school as beginner frontend developer. Before, i was finished college by IT speciality. And i understand that i need 
+A few days ago i started to study in RS school as beginner frontend developer. Before, i was finished college by IT speciality. 
 
-more hard skills, so i started to develop myself.
+And i understand that i need more hard skills, so i started to develop myself.
 
 ### Knowleges 
 I know basics of OOP language like: C++, C#, JS, unity C#, a littlr bit of python. Some of backend languages: PHP,SQL .Also I create projects/games in game engines like: Unreal engine 5 and Unity Engine.
