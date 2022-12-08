@@ -1,1 +1,1 @@
-https://github.com/SpaceInvader00/rsschool-cv/blob/gh-pages/cv.md
+https://SpaceIvnvader00.github.io/rsschool-cv/
