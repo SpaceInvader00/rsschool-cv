@@ -1,0 +1,49 @@
+$primary-color:
+                   #2f80ed;
+$secondary-color:
+                     #333333;
+ html{
+     font-family: Roboto, sans-serif
+ }
+  *{
+    color: $secondary-color;
+
+  }
+  h1{
+    color: $primary-color;
+    margin-bottom: 0.25em; 
+  }
+  h2{
+    color: $secondary-color;
+    font-size: 1em;
+    margin-bottom: 1;
+    margin-top: 1em;
+    text-transform: capitalize;
+  }
+  a {
+    color: $primary-color;
+  }
+  .contact {
+    display: flex;
+      &__type {
+        min-width: 90px;
+      }
+    }
+    .contacts {
+        margin-bottom: 2em;
+    }
+    li{
+        margin-bottom: 1em;
+        font-weight: bold;
+    }
+    .CV3{
+        max-width: 900px;
+        margin: 0 auto;
+    }
+    
+       
+    
+      
+  
+
+
