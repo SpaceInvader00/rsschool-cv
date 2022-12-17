@@ -1,0 +1,45 @@
+html {
+  font-family: Roboto, sans-serif;
+}
+
+* {
+  color: #333333;
+}
+
+h1 {
+  color: #2f80ed;
+  margin-bottom: 0.25em;
+}
+
+h2 {
+  color: #333333;
+  font-size: 1em;
+  margin-bottom: 1;
+  margin-top: 1em;
+  text-transform: capitalize;
+}
+
+a {
+  color: #2f80ed;
+}
+
+.contact {
+  display: flex;
+}
+.contact__type {
+  min-width: 90px;
+}
+
+.contacts {
+  margin-bottom: 2em;
+}
+
+li {
+  margin-bottom: 1em;
+  font-weight: bold;
+}
+
+.CV3 {
+  max-width: 900px;
+  margin: 0 auto;
+}/*# sourceMappingURL=main.css.map */
